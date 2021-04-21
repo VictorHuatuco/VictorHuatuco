@@ -1,6 +1,7 @@
 ### Hi there 👋, my name is Victor Huatuco
 #### A mechatronics engineering student from Peru
-                            ![A mechatronics engineering student from Peru](https://github.com/VictorHuatuco/VictorHuatuco/blob/master/LOGO%204550.png)
+I like to develop embedded systems to automate repetitive tasks . I am currently learning about A.I. in the field of artificial vision.
+![A mechatronics engineering student from Peru](https://github.com/VictorHuatuco/VictorHuatuco/blob/master/LOGO%204550.png)
 
 I like to develop embedded systems to automate repetitive tasks . I am currently learning about A.I. in the field of artificial vision.
 
