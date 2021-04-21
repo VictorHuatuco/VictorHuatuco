@@ -3,7 +3,7 @@
 I like to develop embedded systems to automate repetitive tasks . I am currently learning about A.I. in the field of artificial vision.
 ![A mechatronics engineering student from Peru](https://github.com/VictorHuatuco/VictorHuatuco/blob/master/LOGO%204550.png)
 
-I like to develop embedded systems to automate repetitive tasks . I am currently learning about A.I. in the field of artificial vision.
+
 
 
 - 🔭 I am currently in a study group called 4550 in which we learn about embedded systems in a self-taught way and we have written a magazine of 8 editions that you can see here => [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/issuu.svg' alt='issuu' height='40'>](https://issuu.com/team4550/docs)  
